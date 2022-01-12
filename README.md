@@ -1,2 +1,2 @@
 # castboard-beta
-Release repository for Castboard beta program
+Release repository for the Castboard early access program
